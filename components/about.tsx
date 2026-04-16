@@ -14,20 +14,21 @@ export function About() {
             </h2>
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                My work explores the dramatic interplay between light and darkness, 
-                from moody atmospheric seascapes to bold expressionist portraits. 
-                I am drawn to moments where emotion transcends the ordinary.
+                Mary grew up in Skibbereen, West Cork, surrounded by the rugged beauty 
+                of Ireland&apos;s southwest coast. She studied Commerce at University College Cork 
+                and later pursued legal studies at King&apos;s Inns, Dublin.
               </p>
               <p>
-                Working primarily in oils, I seek to convey not just the visual spectacle 
-                of my subjects, but their emotional resonance—the awe of turbulent seas, 
-                the complexity of human expression, and the warmth of Mediterranean light.
+                Throughout her life, Mary has been drawn to the seaside, finding endless 
+                inspiration in the wild beauty of the Irish coastline. The dramatic interplay 
+                of light on water, the power of the Atlantic, and the ever-changing moods 
+                of the sea inform her artistic vision.
               </p>
               <p>
-                Whether painting on windswept coastlines or in my studio, 
-                each piece begins with careful observation and a deep connection 
-                to the subject. These moments of presence inform the atmospheric 
-                depth and authentic emotion that define my work.
+                Working primarily in oils, Mary&apos;s paintings capture the raw energy and 
+                atmospheric depth of coastal landscapes. Her expressive brushwork and 
+                bold use of colour convey the emotional essence of each scene—from stormy 
+                seas crashing against weathered cliffs to the soft glow of dusk over quiet harbours.
               </p>
             </div>
           </div>
@@ -47,25 +48,6 @@ export function About() {
               <p className="font-serif text-2xl text-foreground italic">
                 &ldquo;Every painting is a conversation between light and shadow, between what we see and what we feel.&rdquo;
               </p>
-            </div>
-            
-            <div className="grid grid-cols-2 gap-8 pt-4">
-              <div>
-                <p className="text-3xl font-serif text-foreground">20+</p>
-                <p className="text-sm text-muted-foreground mt-1">Years Creating</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif text-foreground">150+</p>
-                <p className="text-sm text-muted-foreground mt-1">Original Works</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif text-foreground">40+</p>
-                <p className="text-sm text-muted-foreground mt-1">Exhibitions</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif text-foreground">12</p>
-                <p className="text-sm text-muted-foreground mt-1">Countries Collected</p>
-              </div>
             </div>
           </div>
         </div>
