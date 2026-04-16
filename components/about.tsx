@@ -43,25 +43,6 @@ export function About() {
                 &ldquo;Every painting is a conversation between light and shadow, between what we see and what we feel.&rdquo;
               </p>
             </div>
-            
-            <div className="grid grid-cols-2 gap-8 pt-4">
-              <div>
-                <p className="text-3xl font-serif text-foreground">20+</p>
-                <p className="text-sm text-muted-foreground mt-1">Years Creating</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif text-foreground">150+</p>
-                <p className="text-sm text-muted-foreground mt-1">Original Works</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif text-foreground">40+</p>
-                <p className="text-sm text-muted-foreground mt-1">Exhibitions</p>
-              </div>
-              <div>
-                <p className="text-3xl font-serif text-foreground">12</p>
-                <p className="text-sm text-muted-foreground mt-1">Countries Collected</p>
-              </div>
-            </div>
           </div>
         </div>
       </div>
