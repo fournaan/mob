@@ -14,8 +14,8 @@ export function About() {
             </h2>
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Mary grew up in Skibbereen, West Cork, one of five children in a creative 
-                and close-knit family. She studied Commerce at University College Cork 
+                Mary grew up in Skibbereen, West Cork, surrounded by the rugged beauty 
+                of Ireland&apos;s southwest coast. She studied Commerce at University College Cork 
                 and later pursued legal studies at King&apos;s Inns, Dublin.
               </p>
               <p>
@@ -23,6 +23,12 @@ export function About() {
                 inspiration in the wild beauty of the Irish coastline. The dramatic interplay 
                 of light on water, the power of the Atlantic, and the ever-changing moods 
                 of the sea inform her artistic vision.
+              </p>
+              <p>
+                Working primarily in oils, Mary&apos;s paintings capture the raw energy and 
+                atmospheric depth of coastal landscapes. Her expressive brushwork and 
+                bold use of colour convey the emotional essence of each scene—from stormy 
+                seas crashing against weathered cliffs to the soft glow of dusk over quiet harbours.
               </p>
             </div>
           </div>
