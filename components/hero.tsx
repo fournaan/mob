@@ -13,13 +13,13 @@ export function Hero() {
       <div className="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent" />
       
       <div className="absolute inset-0 flex flex-col items-center justify-center px-6 text-center">
-        <p className="text-sm tracking-[0.3em] uppercase text-muted-foreground mb-4">
+        <p className="text-sm tracking-[0.3em] uppercase text-white mb-4">
           Seascape Artist
         </p>
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-light text-foreground tracking-tight text-balance">
           Mary O&apos;Brien
         </h1>
-        <p className="mt-6 max-w-xl font-serif text-lg md:text-xl text-muted-foreground italic">
+        <p className="mt-6 max-w-xl font-serif text-lg md:text-xl text-white italic">
           Capturing the raw power and haunting beauty of stormy seas
         </p>
         

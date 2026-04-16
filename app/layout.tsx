@@ -16,7 +16,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Mary O'Brien | Seascape Artist",
-  description: 'Contemporary landscape artist specializing in dramatic seascapes, expressive portraits, and coastal scenes. Original oil paintings capturing the beauty of the sea.',
+  description: 'Contemporary landscape artist specializing in dramatic seascapes, expressive portraits, and coastal scenes. Original acrylic paintings capturing the beauty of the sea.',
   generator: 'v0.app',
   icons: {
     icon: [

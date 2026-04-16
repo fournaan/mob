@@ -47,7 +47,7 @@ export function GalleryPageContent() {
               Gallery
             </h1>
             <p className="max-w-2xl text-muted-foreground">
-              Explore my complete collection of original oil paintings, from atmospheric seascapes 
+              Explore my complete collection of original acrylic paintings, from atmospheric seascapes
               to bold expressionist portraits and vibrant coastal scenes.
             </p>
           </div>

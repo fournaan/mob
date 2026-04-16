@@ -25,7 +25,7 @@ export function About() {
                 of the sea inform her artistic vision.
               </p>
               <p>
-                Working primarily in oils, Mary&apos;s paintings capture the raw energy and 
+                Working primarily in acrylics, Mary&apos;s paintings capture the raw energy and
                 atmospheric depth of coastal landscapes. Her expressive brushwork and 
                 bold use of colour convey the emotional essence of each scene—from stormy 
                 seas crashing against weathered cliffs to the soft glow of dusk over quiet harbours.
