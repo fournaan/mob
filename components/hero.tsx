@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <section className="relative h-screen w-full overflow-hidden">
       <Image
-        src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-11-27%20at%2001.51.12-q6udMmdgNI7BTMtaBXrumj3VnBUAYI.jpeg"
+        src="/images/painting-distant-horizon.jpg"
         alt="Atmospheric seascape painting by Mary O'Brien"
         fill
         className="object-cover"
