@@ -85,8 +85,8 @@ export const paintings = [
     year: "2026",
     medium: "Acrylic on canvas",
     dimensions: "To be measured",
-    image: "/images/painting-nocturne.jpg",
-    description: "A solitary apple emerges from near-total darkness — deep crimson and burnt amber coaxed into form by loose, luminous brushstrokes against an almost black ground.",
+    image: "/images/painting-still-life-with-reflection.jpg",
+    description: "A dark apple and its bold leaf sit above their own mirror image — cool grey and blue washes contrasting with sharp strokes of chartreuse and flashes of red.",
     category: "Still Life",
   },
   {
@@ -95,8 +95,8 @@ export const paintings = [
     year: "2026",
     medium: "Acrylic on canvas",
     dimensions: "To be measured",
-    image: "/images/painting-still-life-with-reflection.jpg",
-    description: "A dark apple and its bold leaf sit above their own mirror image — cool grey and blue washes contrasting with sharp strokes of chartreuse and flashes of red.",
+    image: "/images/painting-nocturne.jpg",
+    description: "A solitary apple emerges from near-total darkness — deep crimson and burnt amber coaxed into form by loose, luminous brushstrokes against an almost black ground.",
     category: "Still Life",
   },
 ]
