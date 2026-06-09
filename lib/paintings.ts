@@ -49,6 +49,36 @@ export const paintings = [
     description: "Stormy greys give way to electric turquoise as the tide turns — white cascades and golden breaks of light cutting through the chaos of the sea.",
     category: "Seascape",
   },
+  {
+    id: 6,
+    title: "The Cottage",
+    year: "2026",
+    medium: "Acrylic on canvas",
+    dimensions: "",
+    image: "/images/painting-cottage.jpg",
+    description: "A whitewashed cottage nestled beneath a canopy of rich summer trees, dappled light catching the walls and wild red flowers at the garden's edge.",
+    category: "Landscape",
+  },
+  {
+    id: 7,
+    title: "Green Light",
+    year: "2026",
+    medium: "Acrylic on canvas",
+    dimensions: "",
+    image: "/images/painting-green-light.jpg",
+    description: "A luminous green glow pierces the dark above a restless sea — foam-flecked waves catching the strange light reflected on still black water below.",
+    category: "Seascape",
+  },
+  {
+    id: 8,
+    title: "Orange Horizon",
+    year: "2026",
+    medium: "Acrylic on canvas",
+    dimensions: "",
+    image: "/images/painting-orange-horizon.jpg",
+    description: "A warm amber glow burns low on the horizon, its light spreading across the brooding teal sea in long, trembling reflections.",
+    category: "Seascape",
+  },
 ]
 
 export type Painting = typeof paintings[0]
