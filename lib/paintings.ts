@@ -99,6 +99,16 @@ export const paintings = [
     description: "A solitary apple emerges from near-total darkness — deep crimson and burnt amber coaxed into form by loose, luminous brushstrokes against an almost black ground.",
     category: "Still Life",
   },
+  {
+    id: 11,
+    title: "Dark Coastal",
+    year: "2026",
+    medium: "Acrylic on canvas",
+    dimensions: "To be measured",
+    image: "/images/painting-dark-coastal.jpeg",
+    description: "A steep dark cliff plunges toward a huddle of colourful village houses, their warm ochre and red walls glowing against the brooding rock and teal sea below.",
+    category: "Coastal",
+  },
 ]
 
 export type Painting = typeof paintings[0]
