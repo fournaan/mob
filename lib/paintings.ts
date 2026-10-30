@@ -109,6 +109,16 @@ export const paintings = [
     description: "A steep dark cliff plunges toward a huddle of colourful village houses, their warm ochre and red walls glowing against the brooding rock and teal sea below.",
     category: "Coastal",
   },
+  {
+    id: 12,
+    title: "Crimson Ascent",
+    year: "2026",
+    medium: "Acrylic on canvas",
+    dimensions: "To be measured",
+    image: "/images/painting-crimson-ascent.jpg",
+    description: "A column of deep crimson and olive green rises through a hazy field of blue, loose and flame-like, catching a burst of white light at its core.",
+    category: "Abstract",
+  },
 ]
 
 export type Painting = typeof paintings[0]
